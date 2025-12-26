@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Backend-Laravel%20%7C%20PHP-red?style=flat-square&logo=laravel" />
   <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Bootstrap-purple?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/github/stars/WafaaMohammed?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/github/stars/wafaa-t5?style=flat-square&logo=github" />
   <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg" />
 </p>
 
@@ -44,11 +44,11 @@ I enjoy building **clean, scalable, and secure applications**, solving problems,
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WafaaMohammed&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wafaa-t5&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WafaaMohammed&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wafaa-t5&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -56,7 +56,7 @@ I enjoy building **clean, scalable, and secure applications**, solving problems,
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/WafaaMohammed/WafaaMohammed/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/wafaa-t5/wafaa-t5/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -64,9 +64,9 @@ I enjoy building **clean, scalable, and secure applications**, solving problems,
 ## 🏆 Achievements / Badges
 
 <p align="center">
-  <img src="https://github.com/WafaaMohammed/achievements/raw/main/badge1.svg" width="50" />
-  <img src="https://github.com/WafaaMohammed/achievements/raw/main/badge2.svg" width="50" />
-  <img src="https://github.com/WafaaMohammed/achievements/raw/main/badge3.svg" width="50" />
+  <img src="https://github.com/wafaa-t5/achievements/raw/main/badge1.svg" width="50" />
+  <img src="https://github.com/wafaa-t5/achievements/raw/main/badge2.svg" width="50" />
+  <img src="https://github.com/wafaa-t5/achievements/raw/main/badge3.svg" width="50" />
 </p>
 
 ---
@@ -83,6 +83,7 @@ I enjoy building **clean, scalable, and secure applications**, solving problems,
 
 <p align="center">
   <a href="mailto:wafaa.mohammed.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/WafaaMohammed"><img src="https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github" /></a>
+  <a href="https://github.com/wafaa-t5"><img src="https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github" /></a>
+  <a href="https://www.facebook.com/wafaa.abd.elshafi"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-success?style=flat-square" /></a>
 </p>
