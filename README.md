@@ -1,98 +1,88 @@
-<h1 align="center">👋 Hello, I'm Wafaa Mohammed</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+<h1 align="center">👋 Hello!</h1>
+
+<h3 align="center">I'm Wafaa Mohammed — Full Stack Web Developer</h3>
 
 <p align="center">
-Building scalable, secure, and user-friendly web applications 🚀
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Laravel+%7C+PHP+%7C+React;Building+Scalable+Web+Applications;Always+Learning+New+Things" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Backend-Laravel%20%7C%20PHP-red?style=flat-square&logo=laravel" />
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Bootstrap-purple?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/github/stars/WafaaMohammed?style=flat-square&logo=github" />
+  <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
-
-I'm **Wafaa Mohammed**, a **Full Stack Developer** with a strong focus on backend development using **Laravel (PHP)** and modern frontend technologies.
-
-I enjoy turning complex requirements into clean, maintainable solutions and building web applications that are fast, secure, and scalable.
+Glad to see you here!  
+I'm **Wafaa Mohammed**, a **Full Stack Web Developer** passionate about **Laravel, PHP, React, and modern web technologies**.  
+I enjoy building **clean, scalable, and secure applications**, solving problems, and turning ideas into products.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 What I Do
 
-### 🔹 Backend
-- PHP  
-- Laravel  
-- RESTful APIs  
-- Authentication & Authorization  
-
-### 🔹 Frontend
-- HTML5  
-- CSS3  
-- Bootstrap  
-- JavaScript  
-- React  
-
-### 🔹 Database
-- MySQL  
-
-### 🔹 Tools & Others
-- Git & GitHub  
-- Postman  
-- MVC Architecture  
-- Responsive Design  
+- Full-stack development using **Laravel & React**  
+- Build **REST APIs** & backend services  
+- Responsive UI with **Bootstrap & React**  
+- Authentication, roles & permissions  
+- Third-party API integration  
+- Optimize performance & security  
 
 ---
 
-## 💼 What I Do
+## 🛠 Tech Stack
 
-- Build full-stack web applications using **Laravel & React**
-- Develop and consume **REST APIs**
-- Create clean and responsive UI using **Bootstrap**
-- Handle authentication, roles, and permissions
-- Integrate third-party APIs
-- Optimize performance and security
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,html,css,bootstrap,js,react,mysql,git,github,postman" />
+</p>
 
 ---
 
-## 📂 Projects
+## 📊 GitHub Stats
 
-Some of the things I’ve worked on:
-- Job & Career Platforms  
-- Admin Dashboards  
-- REST API-based Applications  
-- Dynamic Websites using Laravel  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WafaaMohammed&show_icons=true&theme=tokyonight" />
+</p>
 
-*(More projects coming soon…)*
-
----
-
-## 🌱 Currently Learning
-
-- Advanced Laravel (Queues, Jobs, Policies)
-- API Security & Best Practices
-- Improving React performance
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WafaaMohammed&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 🤝 Let's Connect
+## 🐍 Contribution Snake
 
-- 📧 Email: wafaa.mohammed@example.com  
-- 💼 GitHub: https://github.com/your-username  
-- 🌐 Portfolio: Coming Soon  
+<p align="center">
+  <img src="https://github.com/WafaaMohammed/WafaaMohammed/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-✨ *Passionate about learning, building, and growing as a developer.*
+## 🏆 Achievements / Badges
 
-<!--
-**wafaa-t5/wafaa-t5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github.com/WafaaMohammed/achievements/raw/main/badge1.svg" width="50" />
+  <img src="https://github.com/WafaaMohammed/achievements/raw/main/badge2.svg" width="50" />
+  <img src="https://github.com/WafaaMohammed/achievements/raw/main/badge3.svg" width="50" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Solved Problems Box
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Solved%20Problems-41%2F3787-orange?style=flat-square&logo=leetcode" />
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="mailto:wafaa.mohammed.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/WafaaMohammed"><img src="https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-success?style=flat-square" /></a>
+</p>
