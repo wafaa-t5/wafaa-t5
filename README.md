@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello!</h1>
 
-<h3 align="center">I'm Wafaa Mohammed — Full Stack Web Developer</h3>
+<h3 align="center">I'm Wafaa Mohammed — FRONT END Web Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Laravel+%7C+PHP+%7C+React;Building+Scalable+Web+Applications;Always+Learning+New+Things" />
@@ -17,15 +17,15 @@
 ---
 
 Glad to see you here!  
-I'm **Wafaa Mohammed**, a **Full Stack Web Developer** passionate about **Laravel, PHP, React, and modern web technologies**.  
+I'm **Wafaa Mohammed**, a ** FRONT END Web Developer** passionate about **Laravel, PHP, React, and modern web technologies**.  
 I enjoy building **clean, scalable, and secure applications**, solving problems, and turning ideas into products.
 
 ---
 
 ## 🚀 What I Do
 
-- Full-stack development using **Laravel & React**  
-- Build **REST APIs** & backend services  
+- FRONT END development using ** & React**  
+- Build **REST APIs** &  services  
 - Responsive UI with **Bootstrap & React**  
 - Authentication, roles & permissions  
 - Third-party API integration  
